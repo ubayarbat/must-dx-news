@@ -1,6 +1,18 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Дижитал соёлд суралцацгаая
+description: Шинжлэх Ухаан Технологийн Их Сургуулийн мэдээ
+baseurl: "/mustdx-news"
+url: "https://ubayarbat.github.io"
+
 theme: just-the-docs
+
+# Хайлт идэвхжүүлэх
+search_enabled: true
+
+# Footer
+footer_content: "© 2026 MUST"
+
+# Өнгөний схем
+color_scheme: light
 
 url: https://just-the-docs.github.io
 
