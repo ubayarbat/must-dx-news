@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Танилцуулга слайд
-nav_order: 3
+title: Байгууллагын соёл
+nav_order: 2
 ---
 
-# Байгууллагын дижитал соёл
+# Microsoft Teams
 
 Энэхүү танилцуулга слайдаас Microsoft Teams-ийг ашиглах шалтгаануудыг мэдэх болно.
 
