@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Байгууллагын соёл
+title: Microsoft Teams
+parent: Байгууллагын соёл
 nav_order: 2
 ---
 
