@@ -1,4 +1,7 @@
 title: Дижитал соёлд суралцацгаая
+logo: "/images/logo-must.png"
+favicon_ico: "/images/must_ico.ico"
+
 description: Шинжлэх Ухаан Технологийн Их Сургуулийн мэдээ
 baseurl: "/must-dx-news"
 url: "https://ubayarbat.github.io"
@@ -6,12 +9,15 @@ url: "https://ubayarbat.github.io"
 theme: just-the-docs
 
 # Хайлт идэвхжүүлэх
+search_placeholder: "Хайх..."
 search_enabled: true
+search:
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
 
 # Footer
-footer_content: "© 2026 MUST"
+footer_content: "© 2026 Монгол Улсын Шинжлэх Ухаан Технологийн Их Сургууль"
 
 # Өнгөний схем
 color_scheme: light
 
-url: https://just-the-docs.github.io
