@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Ho-Ren-So арга барил
-parent: Дижитал зөвлөгөө
-nav_order: 4
+parent: Байгууллагын соёл
+nav_order: 1
 ---
 
 # Ho-Ren-So: Дижитал харилцааны соёл 🇯🇵 
