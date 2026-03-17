@@ -3,8 +3,10 @@ logo: "/images/logo-must.png"
 favicon_ico: "/images/must_ico.ico"
 
 description: Шинжлэх Ухаан Технологийн Их Сургуулийн мэдээ
-baseurl: "/must-dx-news"
-url: "https://ubayarbat.github.io"
+#baseurl: "/must-dx-news"
+#url: "https://ubayarbat.github.io"
+baseurl: ""
+url: "https://dx.must.edu.mn"
 
 theme: just-the-docs
 
