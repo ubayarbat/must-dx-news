@@ -2,7 +2,7 @@
 layout: default
 title: Microsoft Teams
 parent: Байгууллагын соёл
-nav_order: 2
+nav_order: 9
 ---
 
 # Microsoft Teams
