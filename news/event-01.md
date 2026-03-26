@@ -9,39 +9,45 @@ nav_order: 9
 
 ---
 
-<div class="iframe-container">
-  <iframe src="https://drive.google.com/file/d/1HcGUCx-wkrnwRLKUkU76r_tfgekS2Uc8/preview" 
-    width="100%" 
-    height="1200px" 
-    allow="autoplay" 
-    style="border: none;"></iframe>
+<div class="pdf-container">
+  <iframe 
+    src="https://drive.google.com/file/d/1HcGUCx-wkrnwRLKUkU76r_tfgekS2Uc8/preview" 
+    allow="autoplay">
+  </iframe>
 </div>
 
 <style>
-.iframe-container {
+/* 1. Гаднах чингэлэг (container)-т өндрийг хүчээр зааж өгнө */
+.pdf-container {
   position: relative;
   width: 100%;
-  padding-bottom: 56.25%; /* 16:9 харьцаатай */
-  height: 0;
+  height: 900px; /* Энд өөрийн хүссэн өндрийг (900px, 1000px г.м) бичнэ */
+  margin: 20px 0;
   overflow: hidden;
   border-radius: 8px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  border: 1px solid #eee;
 }
 
-.iframe-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
+/* 2. Доторх iframe-ийг эцэг элементийнхээ (pdf-container) өндрийг 100% дүүргэхийг зааж өгнө */
+.pdf-container iframe {
   width: 100%;
   height: 100%;
-  border: 0;
+  border: none;
+}
+
+/* Гар утсан дээр өндрийг нь арай багасгах (заавал биш) */
+@media (max-width: 768px) {
+  .pdf-container {
+    height: 500px;
+  }
 }
 </style>
 
 ---
 
 ### 💡 Заавар
-> Тусдаа цонхонд харахыг хүсвэл файлын баруун дээд буланд байх **баруун дээш заасан дүрс**-ийг сонгож дарна уу.
+> Тусдаа цонхонд харахыг хүсвэл файлын баруун дээд буланд байх **баруун дээш заасан дүрс**-ийг дарна уу.
 >
 > Файл харагдахгүй бол [энд дарж](https://drive.google.com/file/d/1HcGUCx-wkrnwRLKUkU76r_tfgekS2Uc8/view?usp=sharing) шууд харах боломжтой.
 {: .note }
