@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Нэр томьёоны тайлбар
-nav_order: 6
+title: Үйл ажиллагаа
+nav_order: 5
 has_children: true
 ---
 
-# Нэр томьёоны тайлбар
+# Үйл ажиллагаа
