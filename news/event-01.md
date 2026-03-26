@@ -21,7 +21,7 @@ nav_order: 9
 .pdf-container {
   position: relative;
   width: 100%;
-  height: 900px; /* Энд өөрийн хүссэн өндрийг (900px, 1000px г.м) бичнэ */
+  height: 800px; /* Энд өөрийн хүссэн өндрийг (900px, 1000px г.м) бичнэ */
   margin: 20px 0;
   overflow: hidden;
   border-radius: 8px;
@@ -37,7 +37,7 @@ nav_order: 9
 }
 
 /* Гар утсан дээр өндрийг нь арай багасгах (заавал биш) */
-@media (max-width: 768px) {
+@media (max-width: 760px) {
   .pdf-container {
     height: 500px;
   }
