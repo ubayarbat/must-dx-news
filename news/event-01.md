@@ -5,16 +5,16 @@ parent: Үйл ажиллагаа
 nav_order: 9
 ---
 
-# Microsoft Teams
-
-Энэ танилцуулгаас Microsoft Teams-ийг ашиглах шалтгаануудыг мэдэх болно.
+# Их сургуулийн дижитал шилжилт
 
 ---
 
-## Слайд үзэх
-
 <div class="iframe-container">
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQg-yXa8kP9F_97UYZ9McsfiN3CVxvLddiCpEd5TlY1wLtNrDtLLokpmSq6-Iomx8u7Ya6VFCIpPbYQ/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <iframe src="https://drive.google.com/file/d/1HcGUCx-wkrnwRLKUkU76r_tfgekS2Uc8/preview" 
+    width="100%" 
+    height="1200px" 
+    allow="autoplay" 
+    style="border: none;"></iframe>
 </div>
 
 <style>
@@ -41,8 +41,7 @@ nav_order: 9
 ---
 
 ### 💡 Заавар
-- Слайдыг гүйлгэхийн тулд "сум" дүрс дээр дарна уу.
-- Бүтэн дэлгэцээр үзэхийг хүсвэл слайдын зүүн доод буланд байх **гурван босоо цэг** дээр дарж сонгоно уу.
-
-> Слайд харагдахгүй бол [энд дарж](https://docs.google.com/presentation/d/e/2PACX-1vQg-yXa8kP9F_97UYZ9McsfiN3CVxvLddiCpEd5TlY1wLtNrDtLLokpmSq6-Iomx8u7Ya6VFCIpPbYQ/pub) шууд үзэх боломжтой.
+> Тусдаа цонхонд харахыг хүсвэл файлын баруун дээд буланд байх **баруун дээш заасан дүрс**-ийг сонгож дарна уу.
+>
+> Файл харагдахгүй бол [энд дарж](https://drive.google.com/file/d/1HcGUCx-wkrnwRLKUkU76r_tfgekS2Uc8/view?usp=sharing) шууд харах боломжтой.
 {: .note }
