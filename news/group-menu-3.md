@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Үйл ажиллагаа
+title: Үйл явдал
 nav_order: 5
 has_children: true
 ---
