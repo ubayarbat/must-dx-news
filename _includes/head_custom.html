@@ -1,0 +1,19 @@
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var targets = ["Байгууллагын соёл", "Дижитал соёл"];
+
+  document.querySelectorAll(".nav-list-item").forEach(function (item) {
+    var link = item.querySelector("a.nav-list-link");
+    if (link && targets.indexOf(link.textContent.trim()) !== -1) {
+      var expander = item.querySelector(".nav-list-expander");
+      var subList = item.querySelector(".nav-list");
+      if (expander) {
+        expander.setAttribute("aria-expanded", "true");
+      }
+      if (subList) {
+        subList.style.display = "block";
+      }
+    }
+  });
+});
+</script>
