@@ -62,6 +62,7 @@ nav_order: 1
 
 ## Эх сурвалж
 
-* Тохокү их сургуулийн DX веб хуудас: [https://www.dx.tohoku.ac.jp/english_home/](https://www.dx.tohoku.ac.jp/english_home/)
-* Тохокү их сургуулийн “DX Alliance”-д хувь хүн ч нэгдэх боломжтой: [https://sites.google.com/tohoku.ac.jp/dx-entry/home](https://sites.google.com/tohoku.ac.jp/dx-entry/home) *(Одоогоор зөвхөн япон хэл дээр)*
+* [Тохокү их сургуулийн DX веб хуудас](https://www.dx.tohoku.ac.jp/english_home/)
+* [Тохокү их сургуулийн мэдээ](https://www.dx.tohoku.ac.jp/news_20260403/)
+* [Тохокү их сургуулийн “DX Alliance”-д хувь хүн ч нэгдэх боломжтой](https://sites.google.com/tohoku.ac.jp/dx-entry/home) *(одоогоор зөвхөн япон хэл дээр)*
 {: .note }
