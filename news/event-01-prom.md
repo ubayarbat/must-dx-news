@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Их сургуулийн дижитал шилжилт
-parent: Үйл явдал
 nav_exclude: true
 nav_order: 9
 ---
