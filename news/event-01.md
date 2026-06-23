@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Их сургуулийн дижитал шилжилт (2026/03/27)
-parent: Үйл явдал
+nav_exclude: true
 nav_order: 1
 ---
 
