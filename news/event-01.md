@@ -66,3 +66,4 @@ nav_order: 1
 * [Тохокү их сургуулийн мэдээ](https://www.dx.tohoku.ac.jp/news_20260403/)
 * [Тохокү их сургуулийн “DX Alliance”-д хувь хүн ч нэгдэх боломжтой](https://sites.google.com/tohoku.ac.jp/dx-entry/home) *(одоогоор зөвхөн япон хэл дээр)*
 {: .note }
+* [Их сургуулийн дижитал шилжилт (Зар)](./event-01-prom.html)
